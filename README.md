@@ -9,7 +9,7 @@ This is the backend for a personal portfolio application built using Django and 
 
 ### **Installation**
 1. Make sure you have Python 3.x and pip installed.
-2.     ```sh
+2. ```sh
     cd portfolio_backend
     ```
 
